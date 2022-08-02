@@ -1,0 +1,12 @@
+[submodule "roguelike.h"]
+	path = roguelike.h
+	url = https://github.com/Journeyman-dev/roguelike.h
+[submodule "extern/glad"]
+	path = extern/glad
+	url = https://github.com/Journeyman-dev/glad-opengl33-core
+[submodule "extern/glfw"]
+	path = extern/glfw
+	url = https://github.com/glfw/glfw
+[submodule "extern/glDebug.h"]
+	path = extern/glDebug.h
+	url = https://github.com/Journeyman-dev/glDebug.h
